@@ -6,7 +6,7 @@
 
 ## Instalación
 
-Instalar [AWS CLI](https://aws.amazon.com/es/cli/) y luego configurar una cuenta de AWS.
+Instalar [AWS CLI](https://aws.amazon.com/es/cli/) y luego configurar una cuenta de AWS. Crear el recurso DynamoDB::Table con el nombre *CardTable*
 ```bash
 # Configure sus credenciales: preferible admin access para practicidad
 $ aws configure
